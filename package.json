@@ -1,7 +1,7 @@
 {
   "name": "linter-esprima",
   "main": "./lib/init",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Lint `JavaScript` on the fly, using esprima",
   "repository": "https://github.com/josa42/atom-linter-esprima",
   "license": "MIT",
